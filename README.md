@@ -1,3 +1,4 @@
+<img src="https://drive.google.com/file/d/1QauRng93rpbcEh7F5g8CUVDlDTCjOT__/view?usp=sharing" alt="logo" style="max-width: 100%;">
 <h2 align="center">Hi, This is Ajay Singh Chandel 👋</h2>
 
 I’m a **Data Analyst** with a strong passion for uncovering insights and optimizing processes through data. My journey into data analytics is a story of exploration, perseverance, and a drive to learn and grow.  
