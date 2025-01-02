@@ -1,4 +1,4 @@
-                                                                ## Hi, This is Ajay Singh Chandel 👋
+## Hi, This is Ajay Singh Chandel 👋
 
 ## 🚀 About Me  
 I’m a **Data Analyst** with a strong passion for uncovering insights and optimizing processes through data. My journey into data analytics is a story of exploration, perseverance, and a drive to learn and grow.  
@@ -14,12 +14,9 @@ These experiences allowed me to develop **analytical thinking**, **problem-solvi
 ## 📂 Projects  
 I am currently working on exciting projects to further refine my skills and stay aligned with industry trends:  
 - 📈 [Sales-Insights-Analysis-E-Commerce-Power-Bi-Dashboard](https://github.com/asinghchandel082/Sales-Insights-Analysis-E-Commerce-Power-Bi-Dashboard) 
-- 🔗 [Road-Accident-Power-Bi-Dashboard]([https://github.com/Ajay123/data-cleaning](https://github.com/asinghchandel082/Road-Accident-Power-Bi-Dashboard)  
+- 🔗 [Road-Accident-Power-Bi-Dashboard](https://github.com/asinghchandel082/Road-Accident-Power-Bi-Dashboard)  
 
 Feel free to explore my repositories to see my journey and progress as a Data Analyst.  
-
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ajay-singh-chandel/) 
 
 Currently, I’m working on various projects to continue refining my data analytics skills and stay updated with industry best practices.
 
@@ -32,8 +29,8 @@ Feel free to explore my repositories where I showcase my ongoing projects and pr
 - 💬 Ask me about ## Python, SQL, Excel, PowerBi.
 - 📫 How to reach me: asinghchandel082@gmail.com
 
-## CONNECT with Me:
-https://www.linkedin.com/in/ajay-singh-chandel/
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ajay-singh-chandel/) 
 
 ## Tools I'm working with:
 https://www.python.org/
