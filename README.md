@@ -33,8 +33,7 @@ Feel free to explore my repositories where I showcase my ongoing projects and pr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ajay-singh-chandel/) 
 
 ## Tools I'm working with:
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Python]![image](https://github.com/user-attachments/assets/dd460779-dc6f-411b-a20b-51e59e8b64ed)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-005C84?logo=sqlite&logoColor=white)](https://www.mysql.com/)
 [![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)](https://www.microsoft.com/en-us/power-platform/products/power-bi)
 [![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-in/microsoft-365/excel)
-
