@@ -37,3 +37,7 @@ https://www.python.org/
 https://www.mysql.com/
 https://www.microsoft.com/en-us/power-platform/products/power-bi
 https://www.microsoft.com/en-in/microsoft-365/excel
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+
