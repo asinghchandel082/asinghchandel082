@@ -1,6 +1,5 @@
-## Hi, This is Ajay Singh Chandel 👋
+<h2 align="center">Hi, This is Ajay Singh Chandel 👋</h2>
 
-## 🚀 About Me  
 I’m a **Data Analyst** with a strong passion for uncovering insights and optimizing processes through data. My journey into data analytics is a story of exploration, perseverance, and a drive to learn and grow.  
 After completing my **Master's in Computer Applications (MCA)** in 2024, I developed a keen interest in **data exploration and analytics**. During my MCA, I started learning tools like **Power BI** and **Python**, which laid the foundation for my career in data.  
 In 2023, I discovered **Data Analytics**, a field where data drives informed decision-making.
@@ -22,7 +21,7 @@ Currently, I’m working on various projects to continue refining my data analyt
 
 Feel free to explore my repositories where I showcase my ongoing projects and progress as a Data Analyst. I’m always open to feedback and collaboration!
 
-- 🔭 I’m currently working on ## real-world business case studies.
+- 🔭 I’m currently working on **real-world business case studies**.
 - 🌱 I’m currently learning advanced **Data Analysis**.
 - 👯 I’m looking to collaborate on **Data Analysis projects**.
 - 🤔 I’m looking for help with **Data Analyst jobs**.
