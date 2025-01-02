@@ -30,11 +30,11 @@ Feel free to explore my repositories where I showcase my ongoing projects and pr
 - 📫 How to reach me: asinghchandel082@gmail.com
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ajay-singh-chandel/) 
+[<img src="https://img.icons8.com/color/100/linkedin.png" alt="LinkedIn Logo" width="40" height="40"/>](https://www.linkedin.com/in/ajay-singh-chandel/) 
 
 ## Tools I'm working with:
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="100"/>](https://www.python.org/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Logo" width="100"/>](https://www.mysql.com/)
-[<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI Logo" width="100"/>](https://www.microsoft.com/en-us/power-platform/products/power-bi)
-[<img src="https://img.icons8.com/color/100/microsoft-excel-2019.png" alt="Excel Logo" width="100"/>](https://www.microsoft.com/en-in/microsoft-365/excel)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="40" height="40"/>](https://www.python.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Logo" width="40" height="40"/>](https://www.mysql.com/)
+[<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI Logo" width="40" height="40"/>](https://www.microsoft.com/en-us/power-platform/products/power-bi)
+[<img src="https://img.icons8.com/color/100/microsoft-excel-2019.png" alt="Excel Logo" width="40" height="40"/>](https://www.microsoft.com/en-in/microsoft-365/excel)
 
