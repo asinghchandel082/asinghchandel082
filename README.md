@@ -23,21 +23,18 @@ Currently, I’m working on various projects to continue refining my data analyt
 Feel free to explore my repositories where I showcase my ongoing projects and progress as a Data Analyst. I’m always open to feedback and collaboration!
 
 - 🔭 I’m currently working on ## real-world business case studies.
-- 🌱 I’m currently learning advanced ## Data Analysis.
-- 👯 I’m looking to collaborate on ## Data Analysis projects.
-- 🤔 I’m looking for help with ## Data Analyst jobs.
-- 💬 Ask me about ## Python, SQL, Excel, PowerBi.
+- 🌱 I’m currently learning advanced **Data Analysis**.
+- 👯 I’m looking to collaborate on **Data Analysis projects**.
+- 🤔 I’m looking for help with **Data Analyst jobs**.
+- 💬 Ask me about **Python, SQL, Excel, PowerBi**.
 - 📫 How to reach me: asinghchandel082@gmail.com
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ajay-singh-chandel/) 
 
 ## Tools I'm working with:
-https://www.python.org/
-https://www.mysql.com/
-https://www.microsoft.com/en-us/power-platform/products/power-bi
-https://www.microsoft.com/en-in/microsoft-365/excel
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C84?logo=sqlite&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-005C84?logo=sqlite&logoColor=white)](https://www.mysql.com/)
+[![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)](https://www.microsoft.com/en-us/power-platform/products/power-bi)
+[![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-in/microsoft-365/excel)
 
