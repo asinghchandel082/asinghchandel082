@@ -1,5 +1,4 @@
-## Hi, This is Ajay Singh Chandel 👋
-# Hi there! 👋 I'm Ajay  
+                                                                ## Hi, This is Ajay Singh Chandel 👋
 
 ## 🚀 About Me  
 I’m a **Data Analyst** with a strong passion for uncovering insights and optimizing processes through data. My journey into data analytics is a story of exploration, perseverance, and a drive to learn and grow.  
