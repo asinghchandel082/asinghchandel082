@@ -33,7 +33,15 @@ Feel free to explore my repositories where I showcase my ongoing projects and pr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/ajay-singh-chandel/) 
 
 ## Tools I'm working with:
-[![Python]![image](https://github.com/user-attachments/assets/dd460779-dc6f-411b-a20b-51e59e8b64ed)](https://www.python.org/)
+[![Python]](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-005C84?logo=sqlite&logoColor=white)](https://www.mysql.com/)
 [![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)](https://www.microsoft.com/en-us/power-platform/products/power-bi)
 [![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-in/microsoft-365/excel)
+## Tools I Use
+
+### Languages and Tools  
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Microsoft_Excel_2013-2019_logo.svg" alt="Excel Logo" width="100"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="100"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Power_BI_Logo.svg" alt="Power BI Logo" width="100"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Logo" width="100"/>
+
