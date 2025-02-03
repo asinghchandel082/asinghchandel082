@@ -2,7 +2,7 @@
 <h2 align="center">Hi, This is Ajay Singh Chandel 👋</h2>
 
 I’m a **Data Analyst** with a strong passion for uncovering insights and optimizing processes through data. My journey into data analytics is a story of exploration, perseverance, and a drive to learn and grow.  
-After completing my **Master's in Computer Applications (MCA)** in 2024, I developed a keen interest in **data exploration and analytics**. During my MCA, I started learning tools like **Power BI** and **Python**, which laid the foundation for my career in data.  
+After completing my **Master's in Computer Applications (MCA)** in 2024 from **Kalinga Institute Of Industrial Technology, Bhubaneswar (KIIT University)**, I developed a keen interest in **data exploration and analytics**. During my MCA, I started learning tools like **SQL**, **Power BI**, and **Python**, which laid the foundation for my career in data.  
 In 2023, I discovered **Data Analytics**, a field where data drives informed decision-making.
 
 ## 🛠 Certifications and Real-World Experiences   
