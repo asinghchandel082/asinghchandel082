@@ -15,7 +15,8 @@ These experiences allowed me to develop **analytical thinking**, **problem-solvi
 I am currently working on exciting projects to further refine my skills and stay aligned with industry trends:  
 - 📈 [Sales-Insights-Analysis-E-Commerce-Power-Bi-Dashboard](https://github.com/asinghchandel082/Sales-Insights-Analysis-E-Commerce-Power-Bi-Dashboard) 
 - 🔗 [Road-Accident-Power-Bi-Dashboard](https://github.com/asinghchandel082/Road-Accident-Power-Bi-Dashboard)
-- 🛒 [Reliance-Sales-Data-Power-Bi-Dashboard](https://github.com/asinghchandel082/Reliance-Sales-Data-Power-Bi-Dashboard) 
+- 🛒 [Reliance-Sales-Data-Power-Bi-Dashboard](https://github.com/asinghchandel082/Reliance-Sales-Data-Power-Bi-Dashboard)
+- 🚀 [Gen Z’s Workplace Aspirations Unveiled!](https://github.com/asinghchandel082/Gen-Z-s-Workplace-Aspirations-Unveiled-)
 
 Feel free to explore my repositories to see my journey and progress as a Data Analyst.  
 
