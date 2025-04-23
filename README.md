@@ -31,8 +31,6 @@ Feel free to explore my repositories to see my journey and progress as a Data An
 
 Currently, I’m working on various projects to continue refining my data analytics skills and stay updated with industry best practices.
 
-Feel free to explore my repositories where I showcase my ongoing projects and progress as a Data Analyst. I’m always open to feedback and collaboration!
-
 - 🔭 I’m currently working on **real-world business case studies**.
 - 🌱 I’m currently learning advanced **Data Analysis**.
 - 👯 I’m looking to collaborate on **Data Analysis projects**.
